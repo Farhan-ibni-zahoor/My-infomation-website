@@ -1,0 +1,23 @@
+body {
+  background-color:#03fcd7;
+  text-align: center;
+}
+h1 {
+  color: blue;
+  border-style: solid;
+  border-color: black;
+  
+  h2 {
+  font-size:30px;
+  border-style: solid;
+  border-color: black;
+}
+  h3 {
+  font-size:30px;
+  border-style: solid;
+  background-size: 40px;
+  }
+  h4{
+  font-size:20px;  
+    
+  }
